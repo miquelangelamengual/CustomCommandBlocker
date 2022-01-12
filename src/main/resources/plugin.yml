@@ -1,0 +1,3 @@
+name: CommandBlocker
+version: '${project.version}'
+main: es.hulk.cmdblocker.CommandBlocker

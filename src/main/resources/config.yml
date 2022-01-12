@@ -1,0 +1,36 @@
+WELCOME_MESSAGE:
+  ENABLE: true
+  LINES:
+    - ""
+    - "Hola"
+    - ""
+
+DISCORD_COMMAND:
+  ENABLE: true
+  LINES:
+    - ""
+    - "Discord"
+    - ""
+
+HELP_COMMAND:
+  ENABLE: true
+  LINES:
+    - ""
+    - "Ayuda"
+    - ""
+
+PLUGINS_COMMAND:
+  ENABLE: true
+  LINES:
+    - "Para"
+    - "que"
+    - "quiere"
+    - "saber"
+    - "esto"
+
+STORE_COMMAND:
+  ENABLE: true
+  LINES:
+    - ""
+    - "Store: store.servername.com"
+    - ""
